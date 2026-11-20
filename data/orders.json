@@ -1,0 +1,37 @@
+[
+  {
+    "id": "O1",
+    "时间": "09:00",
+    "来自": "买家",
+    "引用": "",
+    "原文": "For Juniper, draw three intact panels from each lot, taken from separate cartons. Use one parent panel for both MV and peel. Keep one whole panel sealed in reserve. The last panel is for visual inspection before cutting."
+  },
+  {
+    "id": "O2",
+    "时间": "09:05",
+    "来自": "工厂",
+    "引用": "O1",
+    "原文": "杜松按包装规格各取三片，透湿与剥离可各用一件，第三件做外观，留其中一片备复测。"
+  },
+  {
+    "id": "O3",
+    "时间": "09:10",
+    "来自": "买家",
+    "引用": "O1",
+    "原文": "Open the reserve for repeat only when a seal is broken in transit or MV has no reading. A low but valid result alone does not trigger repeat. Keep the repeat paired with the original control surface."
+  },
+  {
+    "id": "O4",
+    "时间": "10:40",
+    "来自": "买家",
+    "引用": "O1",
+    "原文": "For lot J17 only, draw from outer facing. By 'outer' we mean the film facing the carton opening, not the top carton tier. Inner faces must not be used."
+  },
+  {
+    "id": "O5",
+    "时间": "11:20",
+    "来自": "买家",
+    "引用": "O3",
+    "原文": "For J18 use a fresh matched set if the control surface cannot be recovered. The inspection of the intact independently sealed panel remains requested."
+  }
+]
